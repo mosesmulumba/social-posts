@@ -1,2 +1,2 @@
 # social-posts
-social media posts
+simple social media posts
